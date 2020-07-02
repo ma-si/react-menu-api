@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "allowSyntheticDefaultImports": false,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "resolveJsonModule": true,
+        "outDir": "../dist",
+        "baseUrl": "",
+        "module": "commonjs"
+    },
+    "include": ["./**/*.tsx", "./**/*.ts"],
+    "exclude": ["../node_modules"]
+}
